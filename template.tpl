@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Ketch CMP Consent State",
+  "displayName": "DD Ketch CMP Consent State (Unofficial)",
   "description": "Use with the Ketch CMP to identify the individual website user\u0027s consent state and configure when tags should execute.",
   "containerContexts": [
     "WEB"
@@ -341,6 +341,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 5/5/2025, 9:24:43 AM
+Created on 5/20/2025, 9:58:07 AM
 
 
