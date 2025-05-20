@@ -1,4 +1,4 @@
-# Ketch Consent State – GTM Custom Variable Template
+# Ketch Consent State – GTM Custom Variable Template (Unofficial)
 
 This Google Tag Manager (GTM) custom variable template allows you to access user consent preferences set via the [Ketch](https://www.ketch.com/) Consent Management Platform (CMP). It’s especially useful when:
 
