@@ -3,9 +3,11 @@ homepage: https://dumbdata.co/
 documentation: https://github.com/Jude-Nwachukwu/gtm-ketch-consent-state-variable
 versions:
 # LATEST VERSION
+  - sha: 008a507351678ae2ed99f213189812a8d2ea1b91
+    changeNotes: Category included in the info json.
+
+#OLDER VERSION
   - sha: d9d612e3fe85c74f2f4d27e6daa3e6a998cbeecd
     changeNotes: Updated the variable custom template name.
-
-#INITIAL VERSION
   - sha: d40210170eb59b3fdd4ef1d580ad00a6f764c7e4
     changeNotes: Initial release.
